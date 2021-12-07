@@ -19,4 +19,4 @@ Tools for common GitLab tasks
 
 ## Tools
 
-1. upload_package.py: uploads a generic package
+1. upload_package.py: uploads a generic package and computes the uploaded file hash (in SHA-256)
